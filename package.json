@@ -1,0 +1,45 @@
+{
+  "name": "jur-js",
+  "version": "0.1.0",
+  "description": "JSON Uniform Response for Javascript.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --require babel-core/register",
+    "build": "gulp build",
+    "browserify": "browserify",
+    "babel": "babel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalyomede/jur-js.git"
+  },
+  "keywords": [
+    "json",
+    "api",
+    "rest",
+    "uniform",
+    "response",
+    "javascript",
+    "node"
+  ],
+  "author": "Khalyomede <khalyomede@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khalyomede/jur-js/issues"
+  },
+  "homepage": "https://github.com/khalyomede/jur-js#readme",
+  "dependencies": {
+    "joi": "13.*"
+  },
+  "devDependencies": {
+    "babel-core": "6.*",
+    "babel-preset-env": "1.*",
+    "chai": "4.*",
+    "gulp": "3.*",
+    "gulp-babel": "7.*",
+    "gulp-rename": "1.*",
+    "gulp-typescript": "4.*",
+    "mocha": "5.2",
+    "typescript": "2.*"
+  }
+}
