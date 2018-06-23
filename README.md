@@ -15,7 +15,7 @@ This library implement version 2 of the standard.
 
 ## Installation
 
-On your web page, include the following script right before the body tag ending or after your scripts:
+On your web page, include the following script (4 KB) right before the body tag ending or after your scripts:
 
 ```html
 <script type="text/javascript" src="https://rawgit.com/khalyomede/jur-js/v0.1.0/dist/jur.min.js"></script>
