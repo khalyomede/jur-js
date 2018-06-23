@@ -131,4 +131,4 @@ console.log( response.latency('second') );
 94034
 ```
 
-_I have a high latency because I use a very old response generated some days ago. In real, you should have only few milliseconds or latency._
+_I have a high latency because I use a very old response generated some days ago. In real, you should have only few milliseconds of latency._
