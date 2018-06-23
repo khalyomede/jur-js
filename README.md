@@ -2,7 +2,7 @@
 
 JSON Uniform Response for Javascript.
 
-![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)
+![GitHub tag](https://img.shields.io/github/tag/khalyomede/jur-js.svg)
 
 ## Summary
 
