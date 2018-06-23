@@ -18,7 +18,7 @@ This library implement version 2 of the standard.
 On your web page, include the following script right before the body tag ending or after your scripts:
 
 ```html
-<script type="text/javascript" src="https://rawgit.com/khalyomede/jur-js/v0.1.0/dist/jur.min.Js"></script>
+<script type="text/javascript" src="https://rawgit.com/khalyomede/jur-js/v0.1.0/dist/jur.min.js"></script>
 ```
 
 ## Examples
